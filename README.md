@@ -23,7 +23,9 @@ This script automatically:
 + Information Expert
 
 # Log/DB files:
-![db](/pics/db.png "db")
+![db](./pic/db.PNG?raw=true)
+![log](./pic/linkedinlog.PNG?raw=true)
+![log2](./pic/linkedinlog2.PNG?raw=true)
 
 # Further develepments notes:
 + Check out other DBs that supports multithreading which anable us dumpping all information rows at once
