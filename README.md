@@ -22,9 +22,13 @@ This script automatically:
 + Modularization
 + Information Expert
 
+# Log/DB files:
+![db](/pics/db.png "db")
+
 # Further develepments notes:
 + Check out other DBs that supports multithreading which anable us dumpping all information rows at once
 + change IP per request (You can find its code on my "Social Media Computing course" repository)
++ Sometimes you need to scroll down manually when "connection" page is being loaded. You can add one line code to scroll down for you.
 
 
 # References:
