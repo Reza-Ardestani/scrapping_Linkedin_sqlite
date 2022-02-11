@@ -14,6 +14,11 @@ This script automatically:
 +  scraps each person's information and dumps it to Sqlite db
 +  and simultaneously logs all necessary level of info into Linkedin.log 
 
+
+# SequenceDiagram and DataFlowDiagram
+![db](./pic/db.PNG?raw=true)
+
+
 # Enlisted desing patterns are (but not limited to):
 + Creator
 + Low Coupling
