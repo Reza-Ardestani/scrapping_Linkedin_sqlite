@@ -13,3 +13,33 @@ This script automatically:
 +  crawls the page for grabbing their profile links
 +  scraps each person's information and dumps it to Sqlite db
 +  and simultaneously logs all necessary level of info into Linkedin.log 
+
+# Enlisted desing patterns are (but not limited to):
++ Creator
++ Low Coupling
++ High Cohesion 
++ Indirection
++ Modularization
++ Information Expert
+
+# Further develepments notes:
++ Check out other DBs that supports multithreading which anable us dumpping all information rows at once
++ change IP per request (You can find its code on my "Social Media Computing course" repository)
+
+
+# References:
+> https://www.linkedin.com/pulse/how-easy-scraping-data-from-linkedin-profiles-david-craven
+
+> https://www.geeksforgeeks.org/scrape-linkedin-using-selenium-and-beautiful-soup-in-python/
+
+> https://stackoverflow.com/questions/28883769/remove-odd-indexed-elements-from-list-in-python#:~:text=Fun%20fact%3A%20to%20remove%20all,remove(x)%20.
+
+> https://stackoverflow.com/questions/34759787/fetch-all-href-link-using-selenium-in-python
+
+> https://www.tutorialspoint.com/fetch-all-href-link-using-selenium-in-python
+
+> https://stackoverflow.com/questions/64717302/deprecationwarning-executable-path-has-been-deprecated-selenium-python
+
+> https://chromedriver.chromium.org/home
+
+> https://www.youtube.com/watch?v=-ARI4Cz-awo
