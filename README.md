@@ -16,7 +16,7 @@ This script automatically:
 
 
 # DataFlowDiagram
-![db](./pic/DFD.PNG?raw=true)
+![db](./pic/DFD2.PNG?raw=true)
 
 
 # Enlisted desing patterns are (but not limited to):
